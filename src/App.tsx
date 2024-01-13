@@ -20,7 +20,7 @@ export const Button = ({ filled, isDeactivating, onClick }: ButtonProps) => {
         backgroundColor: filled ? 'green' : 'white',
         border: '1px solid',
         borderRadius: 0,
-        borderColor: '#fff',
+        borderColor: '#000',
         width: 'auto',
         height: 'auto',
         padding: '50px',
